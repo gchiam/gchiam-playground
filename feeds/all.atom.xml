@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>gchiam's Playground</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2014-03-13T16:28:29Z</updated></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>gchiam's Playground</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2014-03-13T18:31:00+08:00</updated><entry><title>My first article</title><link href="/my-first-article.html" rel="alternate"></link><updated>2014-03-13T18:31:00+08:00</updated><author><name>Gordon Chiam</name></author><id>tag:,2014-03-13:my-first-article.html</id><summary type="html">&lt;p&gt;Welcome to my playground and this is my first post.&lt;/p&gt;
+</summary></entry></feed>
