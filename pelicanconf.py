@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Gordon Chiam'
-SITENAME = u"gchiam's Playground"
-SITEURL = ''
+SITENAME = u"Gordon's Playground"
+SITEURL = 'http://playground.gordon.chiam.me'
 
 TIMEZONE = 'Asia/Singapore'
 
