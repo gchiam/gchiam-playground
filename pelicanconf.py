@@ -23,11 +23,11 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-    ('GitHub', 'https://github.com/gchiam'),
-    ('Google+', 'https://plus.google.com/+GordonChiam'),
-    ('Facebook', 'https://www.facebook.com/gordon.chiam'),
-    ('Twitter', 'https://www.twitter.com/gordonchiam'),
-    ('Flickr', 'http://www.flickr.com/photos/gchiam/'),
+    ('GitHub', 'https://github.com/gchiam', None),
+    ('Google+', 'https://plus.google.com/+GordonChiam', None),
+    ('Facebook', 'https://www.facebook.com/gordon.chiam', None),
+    ('Twitter', 'https://www.twitter.com/gordonchiam', None),
+    ('Flickr', 'http://www.flickr.com/photos/gchiam/', 'fa-flickr'),
 )
 
 DEFAULT_PAGINATION = 10
