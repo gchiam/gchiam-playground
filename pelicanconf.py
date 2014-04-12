@@ -37,3 +37,7 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 THEME = 'pelican-themes/pelican-bootstrap3'
+
+FILES_TO_COPY = (
+    ('extra/CNAME', 'CNAME'),
+)
