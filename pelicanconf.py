@@ -40,6 +40,9 @@ RELATIVE_URLS = True
 
 THEME = 'pelican-themes/pelican-bootstrap3'
 
-FILES_TO_COPY = (
-    ('extra/CNAME', 'CNAME'),
-)
+STATIC_PATHS = [
+    'extra/CNAME',
+]
+EXTRA_PATH_METADATA = {
+    'extra/CNAME': {'path': 'CNAME'},
+}
