@@ -24,6 +24,7 @@ LINKS = (
 # Social widget
 SOCIAL = (
     ('GitHub', 'https://github.com/gchiam', None),
+    ('LinkedIn', 'https://www.linkedin.com/pub/gordon-chiam/6/3a2/26a', None),
     ('Google+', 'https://plus.google.com/+GordonChiam', None),
     ('Facebook', 'https://www.facebook.com/gordon.chiam', None),
     ('Twitter', 'https://www.twitter.com/gordonchiam', None),
